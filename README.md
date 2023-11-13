@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is Charmaine and I'm a 4th year Biomedical Engineering Student at the University of Waterloo! I'm a SWE in healthcare, and like to dabble in AI 🤖
 
 <!--
 **charmainelamm/charmainelamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
