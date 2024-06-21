@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-My name is Charmaine and I'm a 4th year Biomedical Engineering Student at the University of Waterloo! I'm a SWE in healthcare, and like to dabble in AI 🤖
+My name is Charmaine and I've graduated from Biomedical Engineering at the University of Waterloo! I'm have a background in software, and like to dabble in healthtech and AI 🤖
 
 ### Contact
 🔗 **LinkedIn** : _https://www.linkedin.com/in/lam-charmaine/_
